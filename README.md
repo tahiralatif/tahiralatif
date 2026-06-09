@@ -12,10 +12,10 @@
 
 I specialize in designing and shipping **end-to-end agentic systems** - from multi-agent orchestration and LLM pipelines to full stack web interfaces. My work sits at the intersection of **AI engineering** and **full stack development**, with a focus on systems that actually work in production.
 
-- 🧠 Building **autonomous AI agents** with LangGraph, LangChain & OpenAI Agents SDK
-- 🔊 Shipping **Voice AI systems** with VAPI, ElevenLabs, Pipecat & LiveKit
-- ⚡ Crafting **full stack applications** with Next.js, TypeScript & Tailwind CSS
-- 🔧 Deploying on **Supabase, Railway, Vercel & GCP**
+-  Building **autonomous AI agents** with LangGraph, LangChain & OpenAI Agents SDK
+-  Shipping **Voice AI systems** with VAPI, ElevenLabs, Pipecat & LiveKit
+-  Crafting **full stack applications** with Next.js, TypeScript & Tailwind CSS
+-  Deploying on **Supabase, Railway, Vercel & GCP**
 
 ---
 
