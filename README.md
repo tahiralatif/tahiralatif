@@ -6,7 +6,7 @@
 
 ---
 
-## 🤖 About Me
+##  About Me
 
 > Full Stack Agentic AI Developer building autonomous multi-agent systems, intelligent pipelines, and production-ready AI infrastructure.
 
